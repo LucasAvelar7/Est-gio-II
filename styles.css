@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.background {
+    background: linear-gradient(to bottom, #ff0055, #6b00b3);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#pergunta-container {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+
+#pergunta {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.alternativa {
+    display: block;
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 100%;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+}
+
+.alternativa:hover {
+    background-color: #ddd;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.info p {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+#mensagem {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.8);
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 999;
+}
+
+#mensagem h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#dica {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#proxima-pergunta {
+    display: block;
+    margin: 0 auto;
+    padding: 15px 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 18px;
+}
+
+#proxima-pergunta:hover {
+    background-color: #0056b3;
+}

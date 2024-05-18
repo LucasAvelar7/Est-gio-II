@@ -1,0 +1,152 @@
+[
+    {
+        "pergunta": "Qual linguagem de programação é conhecida por sua facilidade de aprendizado e legibilidade de código?",
+        "alternativas": ["Python", "JavaScript", "C++", "Java"],
+        "resposta": "Python"
+    },
+    {
+        "pergunta": "Quem é o criador da linguagem de programação JavaScript?",
+        "alternativas": ["Brendan Eich", "Guido van Rossum", "Linus Torvalds", "Dennis Ritchie"],
+        "resposta": "Brendan Eich"
+    },
+    {
+        "pergunta": "Qual desses é um paradigma de programação: Funcional, Imperativo, Orientado a Gambiarra, ou Orientado a Objetos?",
+        "alternativas": ["Funcional", "Imperativo", "Orientado a Gambiarra", "Orientado a Objetos"],
+        "resposta": "Funcional"
+    },
+    {
+        "pergunta": "Quem é considerado o pai do sistema operacional Unix?",
+        "alternativas": ["Dennis Ritchie", "Linus Torvalds", "Richard Stallman", "Ken Thompson"],
+        "resposta": "Ken Thompson"
+    },
+    {
+        "pergunta": "Qual desses é um framework de desenvolvimento web em JavaScript?",
+        "alternativas": ["Django", "Flask", "React", "Express"],
+        "resposta": "React"
+    },
+    {
+        "pergunta": "Qual desses é um método HTTP para recuperar dados do servidor?",
+        "alternativas": ["GET", "POST", "PUT", "DELETE"],
+        "resposta": "GET"
+    },
+    {
+        "pergunta": "Qual dessas empresas desenvolveu a linguagem de programação Java?",
+        "alternativas": ["Sun Microsystems", "Microsoft", "Apple", "Google"],
+        "resposta": "Sun Microsystems"
+    },
+    {
+        "pergunta": "Qual é o símbolo utilizado para comentários de linha em diversas linguagens de programação?",
+        "alternativas": ["//", "/* */", "#", "--"],
+        "resposta": "//"
+    },
+    {
+        "pergunta": "O que significa HTML?",
+        "alternativas": ["Hyper Text Markup Language", "High-level Text Management Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language"],
+        "resposta": "Hyper Text Markup Language"
+    },
+    {
+        "pergunta": "Qual é a principal característica da programação orientada a objetos?",
+        "alternativas": ["Encapsulamento", "Polimorfismo", "Herança", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+    },
+    {
+        "pergunta": "Qual é o método em JavaScript usado para remover o último elemento de um array e retornar esse elemento?",
+        "alternativas": ["pop()", "shift()", "slice()", "splice()"],
+        "resposta": "pop()"
+    },
+    {
+        "pergunta": "O que significa CSS?",
+        "alternativas": ["Cascading Style Sheets", "Cascading Sheet Styles", "Cascading Script Styles", "Cascading Style Syntax"],
+        "resposta": "Cascading Style Sheets"
+    },
+    {
+        "pergunta": "Qual linguagem de programação é amplamente usada para desenvolvimento de aplicativos móveis?",
+        "alternativas": ["Swift", "Python", "Java", "C++"],
+        "resposta": "Swift"
+    },
+    {
+        "pergunta": "O que é um servidor web?",
+        "alternativas": ["Um computador que hospeda sites e os disponibiliza na internet", "Um tipo de software de edição de texto", "Um dispositivo de armazenamento de dados", "Um sistema operacional"],
+        "resposta": "Um computador que hospeda sites e os disponibiliza na internet"
+    },
+    {
+        "pergunta": "Qual é o símbolo usado para identificar uma classe em CSS?",
+        "alternativas": [".", "#", "@", "*"],
+        "resposta": "."
+    },
+    {
+        "pergunta": "Qual das seguintes linguagens de programação é usada para criar páginas web interativas?",
+        "alternativas": ["JavaScript", "SQL", "Ruby", "C#"],
+        "resposta": "JavaScript"
+    },
+    {
+        "pergunta": "O que é Git?",
+        "alternativas": ["Um sistema de controle de versão", "Um banco de dados", "Um servidor web", "Um editor de texto"],
+        "resposta": "Um sistema de controle de versão"
+    },
+    {
+        "pergunta": "Qual é o elemento fundamental de um banco de dados relacional?",
+        "alternativas": ["Tabela", "Linha", "Campo", "Registro"],
+        "resposta": "Tabela"
+    },
+    {
+        "pergunta": "Qual é a função da tag <head> em HTML?",
+        "alternativas": ["Ela contém metadados sobre o documento", "Ela define o conteúdo principal da página", "Ela define o rodapé da página", "Ela define o menu de navegação da página"],
+        "resposta": "Ela contém metadados sobre o documento"
+    },
+    {
+        "pergunta": "O que é um loop em programação?",
+        "alternativas": ["Uma estrutura que repete um bloco de código várias vezes", "Um tipo de variável", "Uma função matemática", "Um tipo de erro de sintaxe"],
+        "resposta": "Uma estrutura que repete um bloco de código várias vezes"
+    },
+    {
+        "pergunta": "O que é uma chave primária em um banco de dados?",
+        "alternativas": ["Um campo que identifica exclusivamente cada registro em uma tabela", "Um tipo de criptografia", "Um tipo de função matemática", "Uma sequência de caracteres aleatórios"],
+        "resposta": "Um campo que identifica exclusivamente cada registro em uma tabela"
+    },
+    {
+        "pergunta": "Qual é o principal objetivo da programação orientada a objetos?",
+        "alternativas": ["Reutilização de código e organização", "Execução rápida de código", "Visualização de páginas web", "Pesquisa de dados na internet"],
+        "resposta": "Reutilização de código e organização"
+    },
+    {
+        "pergunta": "O que significa API?",
+        "alternativas": ["Interface de Programação de Aplicativos", "Aplicação de Programação Integrada", "Acesso Público à Internet", "Autenticação de Padrões Internacionais"],
+        "resposta": "Interface de Programação de Aplicativos"
+    },
+    {
+        "pergunta": "Qual é a diferença entre HTTP e HTTPS?",
+        "alternativas": ["HTTPS é HTTP seguro, com criptografia adicional", "HTTP é mais rápido que HTTPS", "HTTP funciona apenas em sites de alta segurança", "HTTPS é um tipo de linguagem de programação"],
+        "resposta": "HTTPS é HTTP seguro, com criptografia adicional"
+    },
+    {
+        "pergunta": "O que é um algoritmo?",
+        "alternativas": ["Um conjunto de instruções para resolver um problema", "Um tipo de linguagem de programação", "Um tipo de erro de sintaxe", "Um dispositivo de hardware"],
+        "resposta": "Um conjunto de instruções para resolver um problema"
+    },
+    {
+        "pergunta": "Qual é o símbolo usado para comentários em CSS?",
+        "alternativas": ["/* */", "//", "<!-- -->", "#"],
+        "resposta": "/* */"
+    },
+    {
+        "pergunta": "O que é uma função em programação?",
+        "alternativas": ["Um bloco de código reutilizável que realiza uma tarefa específica", "Um tipo de variável", "Um dispositivo de armazenamento de dados", "Um tipo de loop"],
+        "resposta": "Um bloco de código reutilizável que realiza uma tarefa específica"
+    },
+    {
+        "pergunta": "O que é um servidor de banco de dados?",
+        "alternativas": ["Um programa que gerencia um banco de dados e processa consultas", "Um dispositivo de armazenamento de dados", "Um tipo de criptografia", "Um tipo de função matemática"],
+        "resposta": "Um programa que gerencia um banco de dados e processa consultas"
+    },
+    {
+        "pergunta": "Qual das seguintes opções não é uma linguagem de programação?",
+        "alternativas": ["HTML", "CSS", "JavaScript", "PHP"],
+        "resposta": "CSS"
+    },
+    {
+        "pergunta": "O que é um loop infinito em programação?",
+        "alternativas": ["Um loop que continua para sempre sem parar", "Um loop que se repete apenas uma vez", "Um loop que executa apenas uma vez", "Um loop que nunca começa"],
+        "resposta": "Um loop que continua para sempre sem parar"
+    }
+]
